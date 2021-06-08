@@ -1,0 +1,704 @@
+/*1024-1199*/
+@media screen and (max-width: 1199px) {
+
+
+}
+
+
+@media screen and (max-width: 1170px) {
+
+    #second-block, #third-block, #fourth-block, #advantages, #header, #first-block, #footer-container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #pop-up-discount {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    
+    #footer-place-map {
+        width: 95%;
+    }
+
+    #footer-place {
+        width: 100%
+    }
+
+    #strong {
+        top: -172px;
+        right: -298px;
+    }
+
+    #first-block {
+        justify-content: center;
+    }
+
+    #second-block-main-texts {
+        margin-left: 20px;
+    }
+
+    #second-block-main-img {
+        width: 500px;
+    }
+
+    #second-block-main-img img {
+        width: 100%;
+    }
+}
+
+/*768-1023*/
+@media screen and (max-width: 1023px) {
+    #fourth-block-slick {
+        width: 95%;
+    }
+
+    #img-face {
+        bottom: -278px;
+    }
+
+    .slick-next {
+        right: 234px;
+    }
+
+    .slick-prev {
+        left: 240px;
+    }
+
+    #third-block-title-image {
+        left: 171px;
+    }
+
+    #footer-info .logo, #footer-info-time, #footer-info-address, #footer-info-network-text, #footer-info-network-icon, #footer-info-email {
+        margin-bottom: 15px;
+    }
+
+    #second-block-main-texts {
+        max-width: 470px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .slick-next {
+        right: 155px;
+    }
+
+    .slick-prev {
+        left: 160px;
+    }
+
+    #third-block-services {
+        margin-left: 20px;
+    }
+
+    #third-block-title-image {
+        left: 60px;
+    }
+
+    #first-block {
+        margin-bottom: 30px;
+    }
+
+    #fourth-block-info {
+        max-width: 796px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    #second-block-main-img {
+        margin: 0 auto;
+    }
+
+    #second-block-options {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    #second-block-main-texts .second-block-main-text {
+        line-height: 1.6;
+    }
+
+    #img-face {
+        bottom: 24px;
+        right: -214px;
+    }
+
+    #second-block #second-block-main {
+        display: block;
+        align-items: start;
+    }
+
+    #second-block {
+        padding: 20px ;
+    }
+
+    #third-block {
+        padding: 30px 20px 30px 20px;
+    }
+
+    #block-instagram {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .block-instagram-main {
+        justify-content: space-around;
+    }
+    .block-instagram-main .block-instagram-text .instagram-text {
+        width: 423px;
+    }
+
+    .block-instagram-button {
+        width: 30%;
+    }
+
+    .third-block-services {
+         margin-right: 0px;
+    }
+
+    #third-block-title-image {
+        width: 400px;
+        left: 207px;
+        top: 297px;
+    }
+
+    #strong {
+        width: 400px;
+        top: -172px;
+        right: 0;
+    }
+
+    #strong img {
+        width: 100%;
+    }
+
+    #fourth-block {
+        padding: 50px 20px;
+    }
+
+    #fourth-block-title {
+        margin-bottom: 20px;
+    }
+
+    .slick-prev {
+        left: 126px;
+    }
+
+    .slick-next {
+        right: 120px;
+    }
+
+    #first-block-info {
+        margin-top: 98px;
+    }
+}
+
+/*580-767*/
+@media screen and (max-width: 767px) {
+    #first-block-info {
+        order: 2;
+        margin-top: 13px;
+    }
+
+    #first-block-image {
+        order: 1;
+        width: 300px;
+    }
+
+    #first-block {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    #first-block-info-text h2 {
+        margin: 20px 0 40px 0;
+    }
+
+    #first-block-info-button {
+        margin-bottom: 30px;
+    }
+
+    #strong {
+        top: -294px;
+        right: 132px;
+    }
+
+    #club {
+        width: 400px;
+        bottom: 335px;
+        left: 138px;
+        z-index: 5;
+    }
+
+    #club img {
+        width: 100%;
+    }
+
+    #img-face {
+        bottom: 19px;
+        right: 139px;
+    }
+
+    #second-block-main-texts {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    #advantages-main {
+        padding: 30px 0;
+    }
+
+    #block-instagram {
+        padding: 30px 0;
+    }
+
+    #block-advertising {
+        padding: 30px 0;
+    }
+
+    .block-instagram-button button {
+        padding: 23px 20px;
+    }
+
+    #third-block-main-info {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .slick-slide {
+        height: 360px;
+    }
+
+    .slick-next {
+        right: 110px;
+        top: 489px;
+    }
+
+    .slick-prev {
+        left: 116px;
+        top: 489px;
+    }
+
+    #fourth-block {
+        padding: 30px 20px;
+    }
+
+    #footer-container-main {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #footer-place {
+        margin-left: 0px;
+    }
+    #footer-place-map {
+        width: 100%;
+    }
+    #footer-last {
+        margin-top: 30px;
+    }
+
+    #footer-info-number {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media screen and (max-width: 755px) {
+    #header {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    #header .logo{
+        order: 1;
+    }
+
+    #header-number {
+        order: 2;
+    }
+
+    #header-items {
+        order: 3;
+        margin-top: 20px;
+    }
+
+}
+
+@media screen and (max-width: 729px) {
+    #advantages-main {
+        display: block;
+    }
+    .advantages-items {
+        width: 350px;
+        margin: 20px auto 0 auto;
+
+    }
+
+    #advantages-main {
+        padding: 1px 0 10px 0;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .block-instagram-main {
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .block-instagram-button {
+        margin: 20px auto 0 auto;
+    }
+
+    .block-instagram-main .block-instagram-text {
+        width: 100%;
+    }
+
+    #third-block-title-image {
+        width: 400px;
+        left: 0;
+        top: 0;
+    }
+
+    .slick-slide {
+        height: 300px;
+    }
+
+    .slick-prev {
+        left: 37px;
+        top: 430px;
+    }
+
+    .slick-next {
+        right: 30px;
+        top: 431px;
+    }
+}
+
+
+/*480-579*/
+@media screen and (max-width: 579px) {
+
+    .slick-slide {
+        height: 250px;
+    }
+    .slick-slide .btnm {
+        padding: 8px 20px;
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+
+    .fourth-block-slick-content-block-name {
+        font-size: 20px;
+        margin-bottom: 12px;
+        margin-top: 10px;
+    }
+
+    .slick-prev {
+        left: 27px;
+        top: 380px;
+    }
+
+    .slick-next {
+        right: 20px;
+        top: 380px;
+    }
+
+    #second-block-main-img {
+        width: 350px;
+    }
+
+    #club {
+        left: 0px;
+    }
+    #footer-place-map {
+        height: 300px;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 500px) {
+
+    #second-block-main-texts {
+        width: 400px;
+    }
+
+    .block-instagram-button button {
+        padding: 16px 22px;
+    }
+
+    .block-instagram-button {
+        width: 100%;
+    }
+
+    .slick-slide {
+        height: 355px;
+    }
+    .slick-slide .btnm {
+        padding: 15px 23px;
+        margin-bottom: 16px;
+        font-size: 16px;
+    }
+    .fourth-block-slick-content-block-name {
+        font-size: 22px;
+        margin-bottom: 23px;
+        margin-top: 16px;
+    }
+
+    .slick-prev {
+        left: 0px;
+        top: 485px;
+    }
+
+    .slick-next {
+        right: -10px;
+        top: 485px;
+    }
+
+    #img-face {
+        bottom: 19px;
+        right: 105px;
+    }
+
+
+
+}
+
+/*320-479*/
+@media screen and (max-width: 479px) {
+
+    #first-block-info h1 {
+        font-size: 25px;
+    }
+
+    #first-block-info-text h2 {
+        font-size: 18px;
+    }
+
+    #second-block-title #second-block-title-text {
+        font-size: 25px;
+    }
+
+    #second-block-title {
+        max-width: 580px;
+        margin: 0 auto 20px auto;
+    }
+
+    .second-block-option .second-block-option-text {
+        font-size: 14px;
+    }
+
+    .second-block-option {
+        margin-top: 12px;
+    }
+    #second-block-main-texts .second-block-main-text {
+        font-size: 12px;
+    }
+
+    .advantages-text {
+        font-size: 16px;
+    }
+
+    .block-instagram-main .block-instagram-text .instagram-text {
+        font-size: 20px;
+    }
+
+    .block-instagram-button button {
+        font-size: 14px;
+    }
+
+    #third-block-title-text {
+        font-size: 22px;
+    }
+
+    .third-block-services-service-text {
+        font-size: 14px;
+    }
+
+    .third-block-services-service-text-span {
+        font-size: 12px;
+    }
+
+    .third-block-services-title-text {
+        font-size: 20px;
+    }
+
+    .third-block-services-all {
+        margin-top: 30px;
+    }
+
+    .third-block-services-prices-price {
+        font-size: 14px;
+    }
+
+    #fourth-block-info-text {
+        font-size: 12px;
+    }
+
+    #fourth-block-title-text {
+        font-size: 22px;
+    }
+
+    .advantages-image {
+        width: 40px;
+    }
+
+    .advantages-image img {
+        width: 40px;
+    }
+
+    .header-item {
+        margin: 0px 10px;
+    }
+
+    #header {
+        padding-top: 40px;
+    }
+
+    #second-block-main-texts {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    #club {
+        width: 200px;
+        bottom: 425px;
+        left: 154px;
+    }
+
+    #third-block-title-image {
+        width: 200px;
+    }
+
+    .slick-dots li button:before {
+        width: 20px;
+        height: 20px;
+    }
+
+    .slick-dots li button {
+         width: 20px;
+         height: 20px;
+     }
+
+    .slick-dots li.slick-active button:before {
+        width: 11px;
+        height: 11px;
+    }
+
+    .slick-dots li.slick-active button {
+        width: 25px;
+        height: 25px;
+    }
+
+    .slick-dots li {
+        margin: 0px 6px;
+    }
+
+    #img-face {
+        bottom: 19px;
+        right: 59px;
+    }
+
+
+    .block-instagram-main .block-instagram-text .instagram-text {
+        width: 300px;
+    }
+
+}
+
+
+@media screen and (max-width: 400px) {
+    #second-block-main-img {
+        width: 300px;
+    }
+    #club {
+        display: none;
+    }
+
+    #strong {
+        display: none;
+    }
+
+    .advantages-items {
+        width: 285px;
+        margin: 20px auto 0 auto;
+    }
+}
+@media screen and (max-width: 360px) {
+    .slick-slide {
+        height: 340px;
+    }
+
+    .slick-prev {
+        left: -13px;
+        top: 468px;
+    }
+
+    .slick-next {
+        right: -11px;
+        top: 468px;
+    }
+
+    .footer-last-info {
+        font-size: 10px;
+    }
+
+    .header-item {
+        font-size: 14px;
+    }
+
+    #header .logo {
+       margin-bottom: 20px;
+    }
+
+    #second-block-main-img {
+        width: 250px;
+    }
+
+    #second-block-main-texts {
+        width: 250px;
+    }
+
+    .third-block-services-service {
+        width: 170px;
+    }
+
+    .slick-dots li button {
+        width: 15px;
+        height: 15px;
+    }
+
+    .slick-dots li button:before {
+        width: 15px;
+        height: 15px;
+    }
+
+    .slick-dots li.slick-active button {
+        width: 20px;
+        height: 20px;
+    }
+
+    .slick-dots li.slick-active button:before {
+        width: 8px;
+        height: 8px;
+        margin: 6px;
+    }
+
+    .slick-dots li {
+        margin: 0px 3px;
+    }
+
+    #pop-up-check-cancel {
+        right: -3px;
+    }
+}
+
+
+
+
+
+
