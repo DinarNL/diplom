@@ -373,6 +373,41 @@
         right: 30px;
         top: 431px;
     }
+
+    .pop-up-check-block-info-text {
+        width: 210px;
+        padding: 13px 13px;
+        margin: 14px 25px;
+    }
+
+    #pop-up-check-title-text {
+        font-size: 12px;
+    }
+
+    #pop-up-check-title {
+        margin: 0 0 10px 0;
+    }
+
+    .pop-up-check-block-info-text {
+        margin: 5px 25px 14px 25px;
+    }
+
+    .pop-up-check-block-button {
+        margin-top: 10px;
+    }
+
+    .pop-up-check-block-button .btn {
+        padding: 13px 31px;
+        font-size: 12px;
+    }
+
+    .select-text-image {
+        top: 19px;
+    }
+
+    #pop-up-check-cancel {
+        top: 0px;
+    }
 }
 
 
