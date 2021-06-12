@@ -8,22 +8,9 @@ $(document).ready(() => {
 
     $('.fourth-block-slick-content').slick({
         centerMode: true,
-        centerPadding: '0px',
         slidesToShow: 3,
-        variableWidth: false,
-        dots: true,
-        responsive: [
-            {
-                breakpoint: 501,
-                settings: {
-                    centerMode: true,
-                    centerPadding: '0px',
-                    slidesToShow: 1,
-                    variableWidth: false,
-                    dots: true
-                }
-            }
-        ]
+        variableWidth: true,
+        dots: true
     });
 
 
@@ -132,6 +119,14 @@ $(document).ready(() => {
         if ( e.target.id === 'pop-up-thanks-close' || e.target.id === 'pop-up-thanks-container' || e.target.id === 'pop-up-thanks-image') {
             $('#pop-up-thanks').hide();
         }
+    });
+
+    $('#burger').click(() => {
+        $('#header').toggleClass('menu-open');
+    });
+
+    $('#header .header-item').click(()=> {
+        $('#header').removeClass('menu-open');
     });
 
 });
